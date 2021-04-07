@@ -1,4 +1,6 @@
 [
+    {
+      "players": [
         {
           "team": "ARI",
           "bye": "9",
@@ -96,6 +98,2349 @@
           "name": "MikeEvans",
           "rank": "18",
           "pos": "WR10"
+        },
+        {
+          "team": "NO",
+          "bye": "5",
+          "name": "MarkIngram",
+          "rank": "19",
+          "pos": "RB8"
+        },
+        {
+          "team": "ATL",
+          "bye": "11",
+          "name": "DevontaFreeman",
+          "rank": "20",
+          "pos": "RB9"
+        },
+        {
+          "team": "TB",
+          "bye": "6",
+          "name": "DougMartin",
+          "rank": "21",
+          "pos": "RB10"
+        },
+        {
+          "team": "NYJ",
+          "bye": "11",
+          "name": "BrandonMarshall",
+          "rank": "22",
+          "pos": "WR11"
+        },
+        {
+          "team": "BUF",
+          "bye": "10",
+          "name": "LeSeanMcCoy",
+          "rank": "23",
+          "pos": "RB11"
+        },
+        {
+          "team": "SD",
+          "bye": "11",
+          "name": "KeenanAllen",
+          "rank": "24",
+          "pos": "WR12"
+        },
+        {
+          "team": "GB",
+          "bye": "4",
+          "name": "EddieLacy",
+          "rank": "25",
+          "pos": "RB12"
+        },
+        {
+          "team": "NO",
+          "bye": "5",
+          "name": "BrandinCooks",
+          "rank": "26",
+          "pos": "WR13"
+        },
+        {
+          "team": "OAK",
+          "bye": "10",
+          "name": "AmariCooper",
+          "rank": "27",
+          "pos": "WR14"
+        },
+        {
+          "team": "IND",
+          "bye": "10",
+          "name": "T.Y.Hilton",
+          "rank": "28",
+          "pos": "WR15"
+        },
+        {
+          "team": "DEN",
+          "bye": "11",
+          "name": "DemaryiusThomas",
+          "rank": "29",
+          "pos": "WR16"
+        },
+        {
+          "team": "DEN",
+          "bye": "11",
+          "name": "C.J.Anderson",
+          "rank": "30",
+          "pos": "RB13"
+        },
+        {
+          "team": "BUF",
+          "bye": "10",
+          "name": "SammyWatkins",
+          "rank": "31",
+          "pos": "WR17"
+        },
+        {
+          "team": "CAR",
+          "bye": "7",
+          "name": "CamNewton",
+          "rank": "32",
+          "pos": "QB1"
+        },
+        {
+          "team": "SF",
+          "bye": "8",
+          "name": "CarlosHyde",
+          "rank": "33",
+          "pos": "RB14"
+        },
+        {
+          "team": "GB",
+          "bye": "4",
+          "name": "AaronRodgers",
+          "rank": "34",
+          "pos": "QB2"
+        },
+        {
+          "team": "GB",
+          "bye": "4",
+          "name": "RandallCobb",
+          "rank": "35",
+          "pos": "WR18"
+        },
+        {
+          "team": "NYJ",
+          "bye": "11",
+          "name": "MattForte",
+          "rank": "36",
+          "pos": "RB15"
+        },
+        {
+          "team": "SEA",
+          "bye": "5",
+          "name": "ThomasRawls",
+          "rank": "37",
+          "pos": "RB16"
+        },
+        {
+          "team": "WAS",
+          "bye": "9",
+          "name": "JordanReed",
+          "rank": "38",
+          "pos": "TE2"
+        },
+        {
+          "team": "KC",
+          "bye": "5",
+          "name": "JeremyMaclin",
+          "rank": "39",
+          "pos": "WR19"
+        },
+        {
+          "team": "CAR",
+          "bye": "7",
+          "name": "GregOlsen",
+          "rank": "40",
+          "pos": "TE3"
+        },
+        {
+          "team": "OAK",
+          "bye": "10",
+          "name": "LataviusMurray",
+          "rank": "41",
+          "pos": "RB17"
+        },
+        {
+          "team": "IND",
+          "bye": "10",
+          "name": "AndrewLuck",
+          "rank": "42",
+          "pos": "QB3"
+        },
+        {
+          "team": "SEA",
+          "bye": "5",
+          "name": "RussellWilson",
+          "rank": "43",
+          "pos": "QB4"
+        },
+        {
+          "team": "CAR",
+          "bye": "7",
+          "name": "KelvinBenjamin",
+          "rank": "44",
+          "pos": "WR20"
+        },
+        {
+          "team": "NE",
+          "bye": "9",
+          "name": "JulianEdelman",
+          "rank": "45",
+          "pos": "WR21"
+        },
+        {
+          "team": "DET",
+          "bye": "10",
+          "name": "GoldenTate",
+          "rank": "46",
+          "pos": "WR22"
+        },
+        {
+          "team": "NYJ",
+          "bye": "11",
+          "name": "EricDecker",
+          "rank": "47",
+          "pos": "WR23"
+        },
+        {
+          "team": "CIN",
+          "bye": "9",
+          "name": "JeremyHill",
+          "rank": "48",
+          "pos": "RB18"
+        },
+        {
+          "team": "TEN",
+          "bye": "13",
+          "name": "DeMarcoMurray",
+          "rank": "49",
+          "pos": "RB19"
+        },
+        {
+          "team": "MIA",
+          "bye": "8",
+          "name": "JarvisLandry",
+          "rank": "50",
+          "pos": "WR24"
+        },
+        {
+          "rank": "\n\r\n\t\t\t\t\t\t\t\t\tgoogletag.cmd.push(function(){googletag.display('div-gpt-ad-1404326895972-0');});\r\n\t\t\t\t\t\t\t\t\t\n"
+        },
+        {
+          "team": "CAR",
+          "bye": "7",
+          "name": "JonathanStewart",
+          "rank": "51",
+          "pos": "RB20"
+        },
+        {
+          "team": "SEA",
+          "bye": "5",
+          "name": "DougBaldwin",
+          "rank": "52",
+          "pos": "WR25"
+        },
+        {
+          "team": "NO",
+          "bye": "5",
+          "name": "DrewBrees",
+          "rank": "53",
+          "pos": "QB5"
+        },
+        {
+          "team": "NE",
+          "bye": "9",
+          "name": "DionLewis",
+          "rank": "54",
+          "pos": "RB21"
+        },
+        {
+          "team": "ARI",
+          "bye": "9",
+          "name": "MichaelFloyd",
+          "rank": "55",
+          "pos": "WR26"
+        },
+        {
+          "team": "PHI",
+          "bye": "4",
+          "name": "RyanMathews",
+          "rank": "56",
+          "pos": "RB22"
+        },
+        {
+          "team": "IND",
+          "bye": "10",
+          "name": "DonteMoncrief",
+          "rank": "57",
+          "pos": "WR27"
+        },
+        {
+          "team": "WAS",
+          "bye": "9",
+          "name": "MattJones",
+          "rank": "58",
+          "pos": "RB23"
+        },
+        {
+          "team": "PHI",
+          "bye": "4",
+          "name": "JordanMatthews",
+          "rank": "59",
+          "pos": "WR28"
+        },
+        {
+          "team": "PIT",
+          "bye": "8",
+          "name": "BenRoethlisberger",
+          "rank": "60",
+          "pos": "QB6"
+        },
+        {
+          "team": "IND",
+          "bye": "10",
+          "name": "FrankGore",
+          "rank": "61",
+          "pos": "RB24"
+        },
+        {
+          "team": "ARI",
+          "bye": "9",
+          "name": "JohnBrown",
+          "rank": "62",
+          "pos": "WR29"
+        },
+        {
+          "team": "KC",
+          "bye": "5",
+          "name": "TravisKelce",
+          "rank": "63",
+          "pos": "TE4"
+        },
+        {
+          "team": "ARI",
+          "bye": "9",
+          "name": "LarryFitzgerald",
+          "rank": "64",
+          "pos": "WR30"
+        },
+        {
+          "team": "DEN",
+          "bye": "11",
+          "name": "EmmanuelSanders",
+          "rank": "65",
+          "pos": "WR31"
+        },
+        {
+          "team": "MIA",
+          "bye": "8",
+          "name": "DevanteParker",
+          "rank": "66",
+          "pos": "WR32"
+        },
+        {
+          "team": "CIN",
+          "bye": "9",
+          "name": "GiovaniBernard",
+          "rank": "67",
+          "pos": "RB25"
+        },
+        {
+          "team": "TEN",
+          "bye": "13",
+          "name": "DelanieWalker",
+          "rank": "68",
+          "pos": "TE5"
+        },
+        {
+          "team": "CHI",
+          "bye": "9",
+          "name": "JeremyLangford",
+          "rank": "69",
+          "pos": "RB26"
+        },
+        {
+          "team": "ARI",
+          "bye": "9",
+          "name": "CarsonPalmer",
+          "rank": "70",
+          "pos": "QB7"
+        },
+        {
+          "team": "SD",
+          "bye": "11",
+          "name": "MelvinGordon",
+          "rank": "71",
+          "pos": "RB27"
+        },
+        {
+          "team": "JAC",
+          "bye": "5",
+          "name": "AllenHurns",
+          "rank": "72",
+          "pos": "WR33"
+        },
+        {
+          "team": "CLE",
+          "bye": "13",
+          "name": "DukeJohnson",
+          "rank": "73",
+          "pos": "RB28"
+        },
+        {
+          "team": "WAS",
+          "bye": "9",
+          "name": "DeSeanJackson",
+          "rank": "74",
+          "pos": "WR34"
+        },
+        {
+          "team": "DET",
+          "bye": "10",
+          "name": "AmeerAbdullah",
+          "rank": "75",
+          "pos": "RB29"
+        },
+        {
+          "team": "SEA",
+          "bye": "5",
+          "name": "TylerLockett",
+          "rank": "76",
+          "pos": "WR35"
+        },
+        {
+          "team": "NO",
+          "bye": "5",
+          "name": "CobyFleener",
+          "rank": "77",
+          "pos": "TE6"
+        },
+        {
+          "team": "OAK",
+          "bye": "10",
+          "name": "MichaelCrabtree",
+          "rank": "78",
+          "pos": "WR36"
+        },
+        {
+          "team": "SD",
+          "bye": "11",
+          "name": "DannyWoodhead",
+          "rank": "79",
+          "pos": "RB30"
+        },
+        {
+          "team": "NYG",
+          "bye": "8",
+          "name": "EliManning",
+          "rank": "80",
+          "pos": "QB8"
+        },
+        {
+          "team": "JAC",
+          "bye": "5",
+          "name": "ChrisIvory",
+          "rank": "81",
+          "pos": "RB31"
+        },
+        {
+          "team": "MIA",
+          "bye": "8",
+          "name": "JayAjayi",
+          "rank": "82",
+          "pos": "RB32"
+        },
+        {
+          "team": "CIN",
+          "bye": "9",
+          "name": "TylerEifert",
+          "rank": "83",
+          "pos": "TE7"
+        },
+        {
+          "team": "JAC",
+          "bye": "5",
+          "name": "BlakeBortles",
+          "rank": "84",
+          "pos": "QB9"
+        },
+        {
+          "team": "CHI",
+          "bye": "9",
+          "name": "KevinWhite",
+          "rank": "85",
+          "pos": "WR37"
+        },
+        {
+          "team": "DET",
+          "bye": "10",
+          "name": "MarvinJones",
+          "rank": "86",
+          "pos": "WR38"
+        },
+        {
+          "team": "JAC",
+          "bye": "5",
+          "name": "T.J.Yeldon",
+          "rank": "87",
+          "pos": "RB33"
+        },
+        {
+          "team": "NE",
+          "bye": "9",
+          "name": "TomBrady",
+          "rank": "88",
+          "pos": "QB10"
+        },
+        {
+          "team": "SD",
+          "bye": "11",
+          "name": "PhilipRivers",
+          "rank": "89",
+          "pos": "QB11"
+        },
+        {
+          "team": "CLE",
+          "bye": "13",
+          "name": "GaryBarnidge",
+          "rank": "90",
+          "pos": "TE8"
+        },
+        {
+          "team": "NYG",
+          "bye": "8",
+          "name": "RashadJennings",
+          "rank": "91",
+          "pos": "RB34"
+        },
+        {
+          "team": "PIT",
+          "bye": "8",
+          "name": "LadariusGreen",
+          "rank": "92",
+          "pos": "TE9"
+        },
+        {
+          "team": "PIT",
+          "bye": "8",
+          "name": "DeAngeloWilliams",
+          "rank": "93",
+          "pos": "RB35"
+        },
+        {
+          "team": "PHI",
+          "bye": "4",
+          "name": "ZachErtz",
+          "rank": "94",
+          "pos": "TE10"
+        },
+        {
+          "team": "MIA",
+          "bye": "8",
+          "name": "ArianFoster",
+          "rank": "95",
+          "pos": "RB36"
+        },
+        {
+          "team": "CLE",
+          "bye": "13",
+          "name": "JoshGordon",
+          "rank": "96",
+          "pos": "WR39"
+        },
+        {
+          "team": "JAC",
+          "bye": "5",
+          "name": "JuliusThomas",
+          "rank": "97",
+          "pos": "TE11"
+        },
+        {
+          "team": "SF",
+          "bye": "8",
+          "name": "TorreySmith",
+          "rank": "98",
+          "pos": "WR40"
+        },
+        {
+          "team": "BAL",
+          "bye": "8",
+          "name": "JustinForsett",
+          "rank": "99",
+          "pos": "RB37"
+        },
+        {
+          "team": "TB",
+          "bye": "6",
+          "name": "CharlesSims",
+          "rank": "100",
+          "pos": "RB38"
+        },
+        {
+          "team": "SD",
+          "bye": "11",
+          "name": "AntonioGates",
+          "rank": "101",
+          "pos": "TE12"
+        },
+        {
+          "team": "NO",
+          "bye": "5",
+          "name": "WillieSnead",
+          "rank": "102",
+          "pos": "WR41"
+        },
+        {
+          "team": "DAL",
+          "bye": "7",
+          "name": "TonyRomo",
+          "rank": "103",
+          "pos": "QB12"
+        },
+        {
+          "team": "NYG",
+          "bye": "8",
+          "name": "SterlingShepard",
+          "rank": "104",
+          "pos": "WR42"
+        },
+        {
+          "team": "CLE",
+          "bye": "13",
+          "name": "CoreyColeman",
+          "rank": "105",
+          "pos": "WR43"
+        },
+        {
+          "team": "OAK",
+          "bye": "10",
+          "name": "DerekCarr",
+          "rank": "106",
+          "pos": "QB13"
+        },
+        {
+          "team": "CLE",
+          "bye": "13",
+          "name": "IsaiahCrowell",
+          "rank": "107",
+          "pos": "RB39"
+        },
+        {
+          "team": "PIT",
+          "bye": "8",
+          "name": "MarkusWheaton",
+          "rank": "108",
+          "pos": "WR44"
+        },
+        {
+          "team": "LA",
+          "bye": "8",
+          "name": "TavonAustin",
+          "rank": "109",
+          "pos": "WR45"
+        },
+        {
+          "team": "TB",
+          "bye": "6",
+          "name": "VincentJackson",
+          "rank": "110",
+          "pos": "WR46"
+        },
+        {
+          "team": "MIN",
+          "bye": "6",
+          "name": "LaquonTreadwell",
+          "rank": "111",
+          "pos": "WR47"
+        },
+        {
+          "team": "WAS",
+          "bye": "9",
+          "name": "KirkCousins",
+          "rank": "112",
+          "pos": "QB14"
+        },
+        {
+          "team": "BUF",
+          "bye": "10",
+          "name": "TyrodTaylor",
+          "rank": "113",
+          "pos": "QB15"
+        },
+        {
+          "team": "CIN",
+          "bye": "9",
+          "name": "AndyDalton",
+          "rank": "114",
+          "pos": "QB16"
+        },
+        {
+          "team": "TEN",
+          "bye": "13",
+          "name": "DorialGreen-Beckham",
+          "rank": "115",
+          "pos": "WR48"
+        },
+        {
+          "team": "MIN",
+          "bye": "6",
+          "name": "StefonDiggs",
+          "rank": "116",
+          "pos": "WR49"
+        },
+        {
+          "team": "TB",
+          "bye": "6",
+          "name": "JameisWinston",
+          "rank": "117",
+          "pos": "QB17"
+        },
+        {
+          "team": "TEN",
+          "bye": "13",
+          "name": "DerrickHenry",
+          "rank": "118",
+          "pos": "RB40"
+        },
+        {
+          "team": "BAL",
+          "bye": "8",
+          "name": "SteveSmith",
+          "rank": "119",
+          "pos": "WR50"
+        },
+        {
+          "team": "SD",
+          "bye": "11",
+          "name": "TravisBenjamin",
+          "rank": "120",
+          "pos": "WR51"
+        },
+        {
+          "team": "IND",
+          "bye": "10",
+          "name": "DwayneAllen",
+          "rank": "121",
+          "pos": "TE13"
+        },
+        {
+          "team": "DET",
+          "bye": "10",
+          "name": "MatthewStafford",
+          "rank": "122",
+          "pos": "QB18"
+        },
+        {
+          "team": "ATL",
+          "bye": "11",
+          "name": "TevinColeman",
+          "rank": "123",
+          "pos": "RB41"
+        },
+        {
+          "team": "NE",
+          "bye": "9",
+          "name": "LeGarretteBlount",
+          "rank": "124",
+          "pos": "RB42"
+        },
+        {
+          "team": "TEN",
+          "bye": "13",
+          "name": "MarcusMariota",
+          "rank": "125",
+          "pos": "QB19"
+        },
+        {
+          "team": "DET",
+          "bye": "10",
+          "name": "EricEbron",
+          "rank": "126",
+          "pos": "TE14"
+        },
+        {
+          "team": "BAL",
+          "bye": "8",
+          "name": "KamarAiken",
+          "rank": "127",
+          "pos": "WR52"
+        },
+        {
+          "team": "ATL",
+          "bye": "11",
+          "name": "MattRyan",
+          "rank": "128",
+          "pos": "QB20"
+        },
+        {
+          "team": "DET",
+          "bye": "10",
+          "name": "TheoRiddick",
+          "rank": "129",
+          "pos": "RB43"
+        },
+        {
+          "team": "BAL",
+          "bye": "8",
+          "name": "KennethDixon",
+          "rank": "130",
+          "pos": "RB44"
+        },
+        {
+          "team": "SEA",
+          "bye": "5",
+          "name": "JimmyGraham",
+          "rank": "131",
+          "pos": "TE15"
+        },
+        {
+          "team": "CHI",
+          "bye": "9",
+          "name": "JordanHoward",
+          "rank": "132",
+          "pos": "RB45"
+        },
+        {
+          "team": "SEA",
+          "bye": "5",
+          "name": "C.J.Prosise",
+          "rank": "133",
+          "pos": "RB46"
+        },
+        {
+          "team": "MIA",
+          "bye": "8",
+          "name": "RyanTannehill",
+          "rank": "134",
+          "pos": "QB21"
+        },
+        {
+          "team": "NYJ",
+          "bye": "11",
+          "name": "BilalPowell",
+          "rank": "135",
+          "pos": "RB47"
+        },
+        {
+          "team": "IND",
+          "bye": "10",
+          "name": "PhillipDorsett",
+          "rank": "136",
+          "pos": "WR53"
+        },
+        {
+          "team": "DAL",
+          "bye": "7",
+          "name": "JasonWitten",
+          "rank": "137",
+          "pos": "TE16"
+        },
+        {
+          "bye": "5",
+          "name": "SeattleSeahawks",
+          "rank": "138",
+          "pos": "DST1"
+        },
+        {
+          "team": "ATL",
+          "bye": "11",
+          "name": "MohamedSanu",
+          "rank": "139",
+          "pos": "WR54"
+        },
+        {
+          "team": "CAR",
+          "bye": "7",
+          "name": "DevinFunchess",
+          "rank": "140",
+          "pos": "WR55"
+        },
+        {
+          "team": "WAS",
+          "bye": "9",
+          "name": "JoshDoctson",
+          "rank": "141",
+          "pos": "WR56"
+        },
+        {
+          "team": "NO",
+          "bye": "5",
+          "name": "MichaelThomas",
+          "rank": "142",
+          "pos": "WR57"
+        },
+        {
+          "team": "NE",
+          "bye": "9",
+          "name": "MartellusBennett",
+          "rank": "143",
+          "pos": "TE17"
+        },
+        {
+          "bye": "11",
+          "name": "DenverBroncos",
+          "rank": "144",
+          "pos": "DST2"
+        },
+        {
+          "team": "CHI",
+          "bye": "9",
+          "name": "ZachMiller",
+          "rank": "145",
+          "pos": "TE18"
+        },
+        {
+          "team": "BAL",
+          "bye": "8",
+          "name": "JavoriusAllen",
+          "rank": "146",
+          "pos": "RB48"
+        },
+        {
+          "team": "TEN",
+          "bye": "13",
+          "name": "KendallWright",
+          "rank": "147",
+          "pos": "WR58"
+        },
+        {
+          "team": "TB",
+          "bye": "6",
+          "name": "AustinSeferian-Jenkins",
+          "rank": "148",
+          "pos": "TE19"
+        },
+        {
+          "team": "BUF",
+          "bye": "10",
+          "name": "KarlosWilliams",
+          "rank": "149",
+          "pos": "RB49"
+        },
+        {
+          "team": "CHI",
+          "bye": "9",
+          "name": "JayCutler",
+          "rank": "150",
+          "pos": "QB22"
+        },
+        {
+          "bye": "9",
+          "name": "ArizonaCardinals",
+          "rank": "151",
+          "pos": "DST3"
+        },
+        {
+          "team": "TEN",
+          "bye": "13",
+          "name": "RishardMatthews",
+          "rank": "152",
+          "pos": "WR59"
+        },
+        {
+          "team": "MIN",
+          "bye": "6",
+          "name": "JerickMcKinnon",
+          "rank": "153",
+          "pos": "RB50"
+        },
+        {
+          "team": "BAL",
+          "bye": "8",
+          "name": "MikeWallace",
+          "rank": "154",
+          "pos": "WR60"
+        },
+        {
+          "team": "DAL",
+          "bye": "7",
+          "name": "TerranceWilliams",
+          "rank": "155",
+          "pos": "WR61"
+        },
+        {
+          "team": "NYJ",
+          "bye": "11",
+          "name": "RyanFitzpatrick",
+          "rank": "156",
+          "pos": "QB23"
+        },
+        {
+          "team": "OAK",
+          "bye": "10",
+          "name": "DeAndreWashington",
+          "rank": "157",
+          "pos": "RB51"
+        },
+        {
+          "bye": "7",
+          "name": "CarolinaPanthers",
+          "rank": "158",
+          "pos": "DST4"
+        },
+        {
+          "team": "NYG",
+          "bye": "8",
+          "name": "ShaneVereen",
+          "rank": "159",
+          "pos": "RB52"
+        },
+        {
+          "team": "BAL",
+          "bye": "8",
+          "name": "JoeFlacco",
+          "rank": "160",
+          "pos": "QB24"
+        },
+        {
+          "team": "NYG",
+          "bye": "8",
+          "name": "PaulPerkins",
+          "rank": "161",
+          "pos": "RB53"
+        },
+        {
+          "team": "PIT",
+          "bye": "8",
+          "name": "SammieCoates",
+          "rank": "162",
+          "pos": "WR62"
+        },
+        {
+          "team": "MIA",
+          "bye": "8",
+          "name": "JordanCameron",
+          "rank": "163",
+          "pos": "TE20"
+        },
+        {
+          "team": "DAL",
+          "bye": "7",
+          "name": "DarrenMcFadden",
+          "rank": "164",
+          "pos": "RB54"
+        },
+        {
+          "team": "WAS",
+          "bye": "9",
+          "name": "PierreGarcon",
+          "rank": "165",
+          "pos": "WR63"
+        },
+        {
+          "team": "GB",
+          "bye": "4",
+          "name": "JamesStarks",
+          "rank": "166",
+          "pos": "RB55"
+        },
+        {
+          "team": "DEN",
+          "bye": "11",
+          "name": "DevontaeBooker",
+          "rank": "167",
+          "pos": "RB56"
+        },
+        {
+          "bye": "9",
+          "name": "HoustonTexans",
+          "rank": "168",
+          "pos": "DST5"
+        },
+        {
+          "team": "BUF",
+          "bye": "10",
+          "name": "CharlesClay",
+          "rank": "169",
+          "pos": "TE21"
+        },
+        {
+          "team": "PHI",
+          "bye": "4",
+          "name": "DarrenSproles",
+          "rank": "170",
+          "pos": "RB57"
+        },
+        {
+          "team": "NE",
+          "bye": "9",
+          "name": "ChrisHogan",
+          "rank": "171",
+          "pos": "WR64"
+        },
+        {
+          "team": "KC",
+          "bye": "5",
+          "name": "AlexSmith",
+          "rank": "172",
+          "pos": "QB25"
+        },
+        {
+          "team": "PHI",
+          "bye": "4",
+          "name": "NelsonAgholor",
+          "rank": "173",
+          "pos": "WR65"
+        },
+        {
+          "team": "ARI",
+          "bye": "9",
+          "name": "ChrisJohnson",
+          "rank": "174",
+          "pos": "RB58"
+        },
+        {
+          "team": "GB",
+          "bye": "4",
+          "name": "JaredCook",
+          "rank": "175",
+          "pos": "TE22"
+        },
+        {
+          "bye": "8",
+          "name": "LosAngelesRams",
+          "rank": "176",
+          "pos": "DST6"
+        },
+        {
+          "team": "BAL",
+          "bye": "8",
+          "name": "BreshadPerriman",
+          "rank": "177",
+          "pos": "WR66"
+        },
+        {
+          "team": "CAR",
+          "bye": "7",
+          "name": "TedGinn",
+          "rank": "178",
+          "pos": "WR67"
+        },
+        {
+          "team": "OAK",
+          "bye": "10",
+          "name": "CliveWalford",
+          "rank": "179",
+          "pos": "TE23"
+        },
+        {
+          "team": "DET",
+          "bye": "10",
+          "name": "AnquanBoldin",
+          "rank": "180",
+          "pos": "WR68"
+        },
+        {
+          "team": "CIN",
+          "bye": "9",
+          "name": "TylerBoyd",
+          "rank": "181",
+          "pos": "WR69"
+        },
+        {
+          "team": "PHI",
+          "bye": "4",
+          "name": "WendellSmallwood",
+          "rank": "182",
+          "pos": "RB59"
+        },
+        {
+          "team": "KC",
+          "bye": "5",
+          "name": "SpencerWare",
+          "rank": "183",
+          "pos": "RB60"
+        },
+        {
+          "team": "SD",
+          "bye": "11",
+          "name": "SteveJohnson",
+          "rank": "184",
+          "pos": "WR70"
+        },
+        {
+          "team": "HOU",
+          "bye": "9",
+          "name": "BrockOsweiler",
+          "rank": "185",
+          "pos": "QB26"
+        },
+        {
+          "team": "NO",
+          "bye": "5",
+          "name": "TimHightower",
+          "rank": "186",
+          "pos": "RB61"
+        },
+        {
+          "team": "NYG",
+          "bye": "8",
+          "name": "WillTye",
+          "rank": "187",
+          "pos": "TE24"
+        },
+        {
+          "team": "MIN",
+          "bye": "6",
+          "name": "KyleRudolph",
+          "rank": "188",
+          "pos": "TE25"
+        },
+        {
+          "team": "HOU",
+          "bye": "9",
+          "name": "WillFuller",
+          "rank": "189",
+          "pos": "WR71"
+        },
+        {
+          "team": "PHI",
+          "bye": "4",
+          "name": "RuebenRandle",
+          "rank": "190",
+          "pos": "WR72"
+        },
+        {
+          "bye": "5",
+          "name": "KansasCityChiefs",
+          "rank": "191",
+          "pos": "DST7"
+        },
+        {
+          "team": "WAS",
+          "bye": "9",
+          "name": "ChrisThompson",
+          "rank": "192",
+          "pos": "RB62"
+        },
+        {
+          "team": "KC",
+          "bye": "5",
+          "name": "CharcandrickWest",
+          "rank": "193",
+          "pos": "RB63"
+        },
+        {
+          "team": "SF",
+          "bye": "8",
+          "name": "VanceMcDonald",
+          "rank": "194",
+          "pos": "TE26"
+        },
+        {
+          "bye": "9",
+          "name": "NewEnglandPatriots",
+          "rank": "195",
+          "pos": "DST8"
+        },
+        {
+          "team": "BAL",
+          "bye": "8",
+          "name": "BenjaminWatson",
+          "rank": "196",
+          "pos": "TE27"
+        },
+        {
+          "team": "GB",
+          "bye": "4",
+          "name": "JeffJanis",
+          "rank": "197",
+          "pos": "WR73"
+        },
+        {
+          "team": "DAL",
+          "bye": "7",
+          "name": "AlfredMorris",
+          "rank": "198",
+          "pos": "RB64"
+        },
+        {
+          "team": "DEN",
+          "bye": "11",
+          "name": "RonnieHillman",
+          "rank": "199",
+          "pos": "RB65"
+        },
+        {
+          "team": "IND",
+          "bye": "10",
+          "name": "JoshFerguson",
+          "rank": "200",
+          "pos": "RB66"
+        },
+        {
+          "team": "SF",
+          "bye": "8",
+          "name": "BruceEllington",
+          "rank": "201",
+          "pos": "WR74"
+        },
+        {
+          "team": "MIA",
+          "bye": "8",
+          "name": "KenyanDrake",
+          "rank": "202",
+          "pos": "RB67"
+        },
+        {
+          "bye": "10",
+          "name": "BuffaloBills",
+          "rank": "203",
+          "pos": "DST9"
+        },
+        {
+          "team": "CAR",
+          "bye": "7",
+          "name": "CameronArtis-Payne",
+          "rank": "204",
+          "pos": "RB68"
+        },
+        {
+          "bye": "9",
+          "name": "CincinnatiBengals",
+          "rank": "205",
+          "pos": "DST10"
+        },
+        {
+          "team": "SF",
+          "bye": "8",
+          "name": "ShaunDraughn",
+          "rank": "206",
+          "pos": "RB69"
+        },
+        {
+          "team": "MIN",
+          "bye": "6",
+          "name": "TeddyBridgewater",
+          "rank": "207",
+          "pos": "QB27"
+        },
+        {
+          "team": "CIN",
+          "bye": "9",
+          "name": "BrandonLaFell",
+          "rank": "208",
+          "pos": "WR75"
+        },
+        {
+          "team": "HOU",
+          "bye": "9",
+          "name": "JaelenStrong",
+          "rank": "209",
+          "pos": "WR76"
+        },
+        {
+          "bye": "6",
+          "name": "MinnesotaVikings",
+          "rank": "210",
+          "pos": "DST11"
+        },
+        {
+          "team": "GB",
+          "bye": "4",
+          "name": "DavanteAdams",
+          "rank": "211",
+          "pos": "WR77"
+        },
+        {
+          "team": "GB",
+          "bye": "4",
+          "name": "RichardRodgers",
+          "rank": "212",
+          "pos": "TE28"
+        },
+        {
+          "team": "BUF",
+          "bye": "10",
+          "name": "RobertWoods",
+          "rank": "213",
+          "pos": "WR78"
+        },
+        {
+          "bye": "11",
+          "name": "NewYorkJets",
+          "rank": "214",
+          "pos": "DST12"
+        },
+        {
+          "team": "LA",
+          "bye": "8",
+          "name": "KennyBritt",
+          "rank": "215",
+          "pos": "WR79"
+        },
+        {
+          "team": "CLE",
+          "bye": "13",
+          "name": "RobertGriffin",
+          "rank": "216",
+          "pos": "QB28"
+        },
+        {
+          "team": "ARI",
+          "bye": "9",
+          "name": "AndreEllington",
+          "rank": "217",
+          "pos": "RB70"
+        },
+        {
+          "team": "SEA",
+          "bye": "5",
+          "name": "ChristineMichael",
+          "rank": "218",
+          "pos": "RB71"
+        },
+        {
+          "team": "NO",
+          "bye": "5",
+          "name": "C.J.Spiller",
+          "rank": "219",
+          "pos": "RB72"
+        },
+        {
+          "team": "SEA",
+          "bye": "5",
+          "name": "JermaineKearse",
+          "rank": "220",
+          "pos": "WR80"
+        },
+        {
+          "team": "NYG",
+          "bye": "8",
+          "name": "VictorCruz",
+          "rank": "221",
+          "pos": "WR81"
+        },
+        {
+          "team": "DET",
+          "bye": "10",
+          "name": "ZachZenner",
+          "rank": "222",
+          "pos": "RB73"
+        },
+        {
+          "team": "NE",
+          "bye": "9",
+          "name": "StephenGostkowski",
+          "rank": "223",
+          "pos": "K1"
+        },
+        {
+          "team": "PHI",
+          "bye": "4",
+          "name": "SamBradford",
+          "rank": "224",
+          "pos": "QB29"
+        },
+        {
+          "team": "NE",
+          "bye": "9",
+          "name": "JamesWhite",
+          "rank": "225",
+          "pos": "RB74"
+        },
+        {
+          "team": "NE",
+          "bye": "9",
+          "name": "DannyAmendola",
+          "rank": "226",
+          "pos": "WR82"
+        },
+        {
+          "team": "HOU",
+          "bye": "9",
+          "name": "TylerErvin",
+          "rank": "227",
+          "pos": "RB75"
+        },
+        {
+          "team": "WAS",
+          "bye": "9",
+          "name": "KeithMarshall",
+          "rank": "228",
+          "pos": "RB76"
+        },
+        {
+          "team": "SF",
+          "bye": "8",
+          "name": "BlaineGabbert",
+          "rank": "229",
+          "pos": "QB30"
+        },
+        {
+          "team": "OAK",
+          "bye": "10",
+          "name": "SethRoberts",
+          "rank": "230",
+          "pos": "WR83"
+        },
+        {
+          "bye": "4",
+          "name": "GreenBayPackers",
+          "rank": "231",
+          "pos": "DST13"
+        },
+        {
+          "team": "CHI",
+          "bye": "9",
+          "name": "Ka'DeemCarey",
+          "rank": "232",
+          "pos": "RB77"
+        },
+        {
+          "team": "PIT",
+          "bye": "8",
+          "name": "DarriusHeyward-Bey",
+          "rank": "233",
+          "pos": "WR84"
+        },
+        {
+          "team": "BUF",
+          "bye": "10",
+          "name": "MikeGillislee",
+          "rank": "234",
+          "pos": "RB78"
+        },
+        {
+          "team": "ATL",
+          "bye": "11",
+          "name": "JustinHardy",
+          "rank": "235",
+          "pos": "WR85"
+        },
+        {
+          "team": "NYJ",
+          "bye": "11",
+          "name": "KhiryRobinson",
+          "rank": "236",
+          "pos": "RB79"
+        },
+        {
+          "team": "LA",
+          "bye": "8",
+          "name": "PharohCooper",
+          "rank": "237",
+          "pos": "WR86"
+        },
+        {
+          "team": "DEN",
+          "bye": "11",
+          "name": "MarkSanchez",
+          "rank": "238",
+          "pos": "QB31"
+        },
+        {
+          "bye": "10",
+          "name": "OaklandRaiders",
+          "rank": "239",
+          "pos": "DST14"
+        },
+        {
+          "team": "TEN",
+          "bye": "13",
+          "name": "TajaeSharpe",
+          "rank": "240",
+          "pos": "WR87"
+        },
+        {
+          "team": "NE",
+          "bye": "9",
+          "name": "NateWashington",
+          "rank": "241",
+          "pos": "WR88"
+        },
+        {
+          "bye": "8",
+          "name": "PittsburghSteelers",
+          "rank": "242",
+          "pos": "DST15"
+        },
+        {
+          "team": "LA",
+          "bye": "8",
+          "name": "JaredGoff",
+          "rank": "243",
+          "pos": "QB32"
+        },
+        {
+          "bye": "8",
+          "name": "MiamiDolphins",
+          "rank": "244",
+          "pos": "DST16"
+        },
+        {
+          "team": "TEN",
+          "bye": "13",
+          "name": "DavidCobb",
+          "rank": "245",
+          "pos": "RB80"
+        },
+        {
+          "team": "NO",
+          "bye": "5",
+          "name": "BrandonColeman",
+          "rank": "246",
+          "pos": "WR89"
+        },
+        {
+          "team": "NYJ",
+          "bye": "11",
+          "name": "JaceAmaro",
+          "rank": "247",
+          "pos": "TE29"
+        },
+        {
+          "team": "TB",
+          "bye": "6",
+          "name": "CameronBrate",
+          "rank": "248",
+          "pos": "TE30"
+        },
+        {
+          "team": "WAS",
+          "bye": "9",
+          "name": "JamisonCrowder",
+          "rank": "249",
+          "pos": "WR90"
+        },
+        {
+          "team": "LA",
+          "bye": "8",
+          "name": "LanceKendricks",
+          "rank": "250",
+          "pos": "TE31"
+        },
+        {
+          "team": "MIA",
+          "bye": "8",
+          "name": "LeonteCarroo",
+          "rank": "251",
+          "pos": "WR91"
+        },
+        {
+          "team": "LA",
+          "bye": "8",
+          "name": "BrianQuick",
+          "rank": "252",
+          "pos": "WR92"
+        },
+        {
+          "team": "SEA",
+          "bye": "5",
+          "name": "StevenHauschka",
+          "rank": "253",
+          "pos": "K2"
+        },
+        {
+          "team": "SF",
+          "bye": "8",
+          "name": "ColinKaepernick",
+          "rank": "254",
+          "pos": "QB33"
+        },
+        {
+          "team": "CHI",
+          "bye": "9",
+          "name": "EddieRoyal",
+          "rank": "255",
+          "pos": "WR93"
+        },
+        {
+          "team": "BAL",
+          "bye": "8",
+          "name": "JustinTucker",
+          "rank": "256",
+          "pos": "K3"
+        },
+        {
+          "team": "DAL",
+          "bye": "7",
+          "name": "LanceDunbar",
+          "rank": "257",
+          "pos": "RB81"
+        },
+        {
+          "team": "GB",
+          "bye": "4",
+          "name": "MasonCrosby",
+          "rank": "258",
+          "pos": "K4"
+        },
+        {
+          "team": "NYJ",
+          "bye": "11",
+          "name": "GenoSmith",
+          "rank": "259",
+          "pos": "QB34"
+        },
+        {
+          "team": "ATL",
+          "bye": "11",
+          "name": "AustinHooper",
+          "rank": "260",
+          "pos": "TE32"
+        },
+        {
+          "team": "TEN",
+          "bye": "13",
+          "name": "AntonioAndrews",
+          "rank": "261",
+          "pos": "RB82"
+        },
+        {
+          "team": "KC",
+          "bye": "5",
+          "name": "ChrisConley",
+          "rank": "262",
+          "pos": "WR94"
+        },
+        {
+          "team": "BUF",
+          "bye": "10",
+          "name": "JonathanWilliams",
+          "rank": "263",
+          "pos": "RB83"
+        },
+        {
+          "team": "SF",
+          "bye": "8",
+          "name": "DeAndreSmelter",
+          "rank": "264",
+          "pos": "WR95"
+        },
+        {
+          "bye": "13",
+          "name": "TennesseeTitans",
+          "rank": "265",
+          "pos": "DST17"
+        },
+        {
+          "team": "HOU",
+          "bye": "9",
+          "name": "BraxtonMiller",
+          "rank": "266",
+          "pos": "WR96"
+        },
+        {
+          "team": "KC",
+          "bye": "5",
+          "name": "AlbertWilson",
+          "rank": "267",
+          "pos": "WR97"
+        },
+        {
+          "team": "DAL",
+          "bye": "7",
+          "name": "DanBailey",
+          "rank": "268",
+          "pos": "K5"
+        },
+        {
+          "team": "TEN",
+          "bye": "13",
+          "name": "AndreJohnson",
+          "rank": "269",
+          "pos": "WR98"
+        },
+        {
+          "team": "BAL",
+          "bye": "8",
+          "name": "MaxxWilliams",
+          "rank": "270",
+          "pos": "TE33"
+        },
+        {
+          "team": "CAR",
+          "bye": "7",
+          "name": "GrahamGano",
+          "rank": "271",
+          "pos": "K6"
+        },
+        {
+          "bye": "10",
+          "name": "DetroitLions",
+          "rank": "272",
+          "pos": "DST18"
+        },
+        {
+          "team": "IND",
+          "bye": "10",
+          "name": "AdamVinatieri",
+          "rank": "273",
+          "pos": "K7"
+        },
+        {
+          "bye": "4",
+          "name": "PhiladelphiaEagles",
+          "rank": "274",
+          "pos": "DST19"
+        },
+        {
+          "team": "NYG",
+          "bye": "8",
+          "name": "JoshBrown",
+          "rank": "275",
+          "pos": "K8"
+        },
+        {
+          "team": "ARI",
+          "bye": "9",
+          "name": "ChandlerCatanzaro",
+          "rank": "276",
+          "pos": "K9"
+        },
+        {
+          "team": "MIN",
+          "bye": "6",
+          "name": "BlairWalsh",
+          "rank": "277",
+          "pos": "K10"
+        },
+        {
+          "team": "ATL",
+          "bye": "11",
+          "name": "JacobTamme",
+          "rank": "278",
+          "pos": "TE34"
+        },
+        {
+          "team": "HOU",
+          "bye": "9",
+          "name": "AlfredBlue",
+          "rank": "279",
+          "pos": "RB84"
+        },
+        {
+          "team": "DEN",
+          "bye": "11",
+          "name": "JeffHeuerman",
+          "rank": "280",
+          "pos": "TE35"
+        },
+        {
+          "team": "LA",
+          "bye": "8",
+          "name": "BennyCunningham",
+          "rank": "281",
+          "pos": "RB85"
+        },
+        {
+          "team": "MIA",
+          "bye": "8",
+          "name": "KennyStills",
+          "rank": "282",
+          "pos": "WR99"
+        },
+        {
+          "bye": "8",
+          "name": "BaltimoreRavens",
+          "rank": "283",
+          "pos": "DST20"
+        },
+        {
+          "team": "DAL",
+          "bye": "7",
+          "name": "ColeBeasley",
+          "rank": "284",
+          "pos": "WR100"
+        },
+        {
+          "team": "CAR",
+          "bye": "7",
+          "name": "PhillyBrown",
+          "rank": "285",
+          "pos": "WR101"
+        },
+        {
+          "team": "DET",
+          "bye": "10",
+          "name": "StevanRidley",
+          "rank": "286",
+          "pos": "RB86"
+        },
+        {
+          "bye": "5",
+          "name": "JacksonvilleJaguars",
+          "rank": "287",
+          "pos": "DST21"
+        },
+        {
+          "team": "WAS",
+          "bye": "9",
+          "name": "VernonDavis",
+          "rank": "288",
+          "pos": "TE36"
+        },
+        {
+          "team": "DEN",
+          "bye": "11",
+          "name": "PaxtonLynch",
+          "rank": "289",
+          "pos": "QB35"
+        },
+        {
+          "team": "FA",
+          "bye": "",
+          "name": "OwenDaniels",
+          "rank": "290",
+          "pos": "TE37"
+        },
+        {
+          "team": "DET",
+          "bye": "10",
+          "name": "TJJones",
+          "rank": "291",
+          "pos": "WR102"
+        },
+        {
+          "team": "MIN",
+          "bye": "6",
+          "name": "CharlesJohnson",
+          "rank": "292",
+          "pos": "WR103"
+        },
+        {
+          "team": "PIT",
+          "bye": "8",
+          "name": "ChrisBoswell",
+          "rank": "293",
+          "pos": "K11"
+        },
+        {
+          "team": "HOU",
+          "bye": "9",
+          "name": "CecilShorts",
+          "rank": "294",
+          "pos": "WR104"
+        },
+        {
+          "team": "CLE",
+          "bye": "13",
+          "name": "RashardHiggins",
+          "rank": "295",
+          "pos": "WR105"
+        },
+        {
+          "team": "ARI",
+          "bye": "9",
+          "name": "DarrenFells",
+          "rank": "296",
+          "pos": "TE38"
+        },
+        {
+          "bye": "10",
+          "name": "IndianapolisColts",
+          "rank": "297",
+          "pos": "DST22"
+        },
+        {
+          "bye": "9",
+          "name": "ChicagoBears",
+          "rank": "298",
+          "pos": "DST23"
+        },
+        {
+          "team": "NE",
+          "bye": "9",
+          "name": "JimmyGaroppolo",
+          "rank": "299",
+          "pos": "QB36"
+        },
+        {
+          "team": "HOU",
+          "bye": "9",
+          "name": "RyanGriffin",
+          "rank": "300",
+          "pos": "TE39"
+        },
+        {
+          "team": "LA",
+          "bye": "8",
+          "name": "TreMason",
+          "rank": "301",
+          "pos": "RB87"
+        },
+        {
+          "team": "NYG",
+          "bye": "8",
+          "name": "LarryDonnell",
+          "rank": "302",
+          "pos": "TE40"
+        },
+        {
+          "team": "NYJ",
+          "bye": "11",
+          "name": "DevinSmith",
+          "rank": "303",
+          "pos": "WR106"
+        },
+        {
+          "team": "SEA",
+          "bye": "5",
+          "name": "AlexCollins",
+          "rank": "304",
+          "pos": "RB88"
+        },
+        {
+          "team": "GB",
+          "bye": "4",
+          "name": "TyMontgomery",
+          "rank": "305",
+          "pos": "WR107"
+        },
+        {
+          "team": "PHI",
+          "bye": "4",
+          "name": "BrentCelek",
+          "rank": "306",
+          "pos": "TE41"
+        },
+        {
+          "team": "SD",
+          "bye": "11",
+          "name": "HunterHenry",
+          "rank": "307",
+          "pos": "TE42"
+        },
+        {
+          "team": "FA",
+          "bye": "",
+          "name": "MarquesColston",
+          "rank": "308",
+          "pos": "WR108"
+        },
+        {
+          "team": "DEN",
+          "bye": "11",
+          "name": "VirgilGreen",
+          "rank": "309",
+          "pos": "TE43"
+        },
+        {
+          "bye": "9",
+          "name": "WashingtonRedskins",
+          "rank": "310",
+          "pos": "DST24"
+        },
+        {
+          "team": "FA",
+          "bye": "",
+          "name": "JoiqueBell",
+          "rank": "311",
+          "pos": "RB89"
+        },
+        {
+          "team": "DEN",
+          "bye": "11",
+          "name": "CodyLatimer",
+          "rank": "312",
+          "pos": "WR109"
+        },
+        {
+          "team": "DET",
+          "bye": "10",
+          "name": "MattPrater",
+          "rank": "313",
+          "pos": "K12"
+        },
+        {
+          "team": "TB",
+          "bye": "6",
+          "name": "RobertoAguayo",
+          "rank": "314",
+          "pos": "K13"
+        },
+        {
+          "team": "CLE",
+          "bye": "13",
+          "name": "JoshMcCown",
+          "rank": "315",
+          "pos": "QB37"
+        },
+        {
+          "team": "JAC",
+          "bye": "5",
+          "name": "MarqiseLee",
+          "rank": "316",
+          "pos": "WR110"
+        },
+        {
+          "team": "FA",
+          "bye": "",
+          "name": "RoddyWhite",
+          "rank": "317",
+          "pos": "WR111"
+        },
+        {
+          "team": "DEN",
+          "bye": "11",
+          "name": "BrandonMcManus",
+          "rank": "318",
+          "pos": "K14"
+        },
+        {
+          "bye": "7",
+          "name": "DallasCowboys",
+          "rank": "319",
+          "pos": "DST25"
+        },
+        {
+          "team": "BUF",
+          "bye": "10",
+          "name": "LeonardHankerson",
+          "rank": "320",
+          "pos": "WR112"
+        },
+        {
+          "bye": "5",
+          "name": "NewOrleansSaints",
+          "rank": "321",
+          "pos": "DST26"
+        },
+        {
+          "team": "ARI",
+          "bye": "9",
+          "name": "J.J.Nelson",
+          "rank": "322",
+          "pos": "WR113"
+        },
+        {
+          "team": "FA",
+          "bye": "",
+          "name": "NickFoles",
+          "rank": "323",
+          "pos": "QB38"
+        },
+        {
+          "team": "PHI",
+          "bye": "4",
+          "name": "CarsonWentz",
+          "rank": "324",
+          "pos": "QB39"
+        },
+        {
+          "team": "TB",
+          "bye": "6",
+          "name": "KennyBell",
+          "rank": "325",
+          "pos": "WR114"
+        },
+        {
+          "team": "SF",
+          "bye": "8",
+          "name": "GarrettCelek",
+          "rank": "326",
+          "pos": "TE44"
+        },
+        {
+          "team": "LA",
+          "bye": "8",
+          "name": "TylerHigbee",
+          "rank": "327",
+          "pos": "TE45"
+        },
+        {
+          "team": "KC",
+          "bye": "5",
+          "name": "CairoSantos",
+          "rank": "328",
+          "pos": "K15"
+        },
+        {
+          "team": "NYG",
+          "bye": "8",
+          "name": "AndreWilliams",
+          "rank": "329",
+          "pos": "RB90"
+        },
+        {
+          "team": "JAC",
+          "bye": "5",
+          "name": "DenardRobinson",
+          "rank": "330",
+          "pos": "RB91"
+        },
+        {
+          "team": "CLE",
+          "bye": "13",
+          "name": "AndrewHawkins",
+          "rank": "331",
+          "pos": "WR115"
+        },
+        {
+          "team": "JAC",
+          "bye": "5",
+          "name": "RashadGreene",
+          "rank": "332",
+          "pos": "WR116"
+        },
+        {
+          "bye": "8",
+          "name": "NewYorkGiants",
+          "rank": "333",
+          "pos": "DST27"
+        },
+        {
+          "team": "NE",
+          "bye": "9",
+          "name": "MalcolmMitchell",
+          "rank": "334",
+          "pos": "WR117"
+        },
+        {
+          "team": "SEA",
+          "bye": "5",
+          "name": "LukeWillson",
+          "rank": "335",
+          "pos": "TE46"
+        },
+        {
+          "team": "IND",
+          "bye": "10",
+          "name": "RobertTurbin",
+          "rank": "336",
+          "pos": "RB92"
+        },
+        {
+          "team": "TEN",
+          "bye": "13",
+          "name": "DexterMcCluster",
+          "rank": "337",
+          "pos": "RB93"
+        },
+        {
+          "team": "CAR",
+          "bye": "7",
+          "name": "MikeTolbert",
+          "rank": "338",
+          "pos": "RB94"
+        },
+        {
+          "team": "FA",
+          "bye": "",
+          "name": "BrianHartline",
+          "rank": "339",
+          "pos": "WR118"
+        },
+        {
+          "team": "MIN",
+          "bye": "6",
+          "name": "CordarrellePatterson",
+          "rank": "340",
+          "pos": "WR119"
+        },
+        {
+          "team": "SF",
+          "bye": "8",
+          "name": "QuintonPatton",
+          "rank": "341",
+          "pos": "WR120"
+        },
+        {
+          "team": "CHI",
+          "bye": "9",
+          "name": "RobbieGould",
+          "rank": "342",
+          "pos": "K16"
+        },
+        {
+          "team": "ATL",
+          "bye": "11",
+          "name": "MattBryant",
+          "rank": "343",
+          "pos": "K17"
+        },
+        {
+          "team": "BAL",
+          "bye": "8",
+          "name": "CrockettGillmore",
+          "rank": "344",
+          "pos": "TE47"
+        },
+        {
+          "team": "NO",
+          "bye": "5",
+          "name": "JoshHill",
+          "rank": "345",
+          "pos": "TE48"
+        },
+        {
+          "bye": "13",
+          "name": "ClevelandBrowns",
+          "rank": "346",
+          "pos": "DST28"
+        },
+        {
+          "team": "HOU",
+          "bye": "9",
+          "name": "NickNovak",
+          "rank": "347",
+          "pos": "K18"
+        },
+        {
+          "bye": "6",
+          "name": "TampaBayBuccaneers",
+          "rank": "348",
+          "pos": "DST29"
+        },
+        {
+          "bye": "11",
+          "name": "AtlantaFalcons",
+          "rank": "349",
+          "pos": "DST30"
+        },
+        {
+          "bye": "11",
+          "name": "SanDiegoChargers",
+          "rank": "350",
+          "pos": "DST31"
+        },
+        {
+          "bye": "8",
+          "name": "SanFrancisco49ers",
+          "rank": "351",
+          "pos": "DST32"
         }
+      ],
+      "teams": [
+        {
+          "players": [
+            {
+              "team": "PIT",
+              "bye": "8",
+              "name": "AntonioBrown",
+              "rank": "1",
+              "pos": "WR1"
+            },
+            {
+              "team": "LA",
+              "bye": "8",
+              "name": "ToddGurley",
+              "rank": "4",
+              "pos": "RB1"
+            }
+          ]
+        },
+        {
+          "name": "",
+          "players": [
+            {
+              "team": "NYG",
+              "bye": "8",
+              "name": "OdellBeckhamJr.",
+              "rank": "2",
+              "pos": "WR2"
+            },
+            {
+              "team": "ATL",
+              "bye": "11",
+              "name": "JulioJones",
+              "rank": "3",
+              "pos": "WR3"
+            }
+          ]
+        }
+      ]
+    }
   ]
   
